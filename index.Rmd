@@ -2,11 +2,11 @@
 title: "Nora Elhaissouni"
 image: "nora.jpg"
 links:
-  - label: '`r fontawesome::fa("linkedin", fill = "mediumvioletred")` LinkedIn'
+  - label: '`r fontawesome::fa("linkedin", fill = "blue")` LinkedIn'
     url: "https://linkedin.com/in/nora-elhaissouni"
-  - label: '`r fontawesome::fa("github", fill = "mediumvioletred")` Github'
+  - label: '`r fontawesome::fa("github", fill = "blue")` Github'
     url: "https://github.com/nora-elhaissouni"
-  - label: '`r fontawesome::fa("envelope", fill = "mediumvioletred")` Email'
+  - label: '`r fontawesome::fa("envelope", fill = "blue")` Email'
     url: "nelhais1@jh.edu"
 output:
   postcards::trestles
@@ -37,7 +37,7 @@ ScM in Biostatistics | August 2023 - May 2025
 ## Skills
 - Communication
 - Organization
-- R programming, Python, STATA, SPSS
+- R programming, Python, Stata, SPSS
 
 ## Interests
 - Research
