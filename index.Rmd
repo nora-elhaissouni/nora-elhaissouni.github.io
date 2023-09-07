@@ -16,17 +16,17 @@ library(fontawesome)
 ```
 ## Bio
 
-Nora Elhaissouni graduated from Tufts University with her Bachelor of Science in 2023. At Tufts, Nora completed a double major in Biology and Child Study and Human Development. After graduating from Tufts, she began her ScM Biostatistics program at Johns Hopkins Bloomberg School of Public Health. She is interested in applying data science and statistical methods towards infectious disease or child health research. She hopes to gain more research experience and is looking for a summer internship so that she can narrow her interests further.
+Nora Elhaissouni graduated from Tufts University with her Bachelor of Science this past May. She is currently pursuing her ScM in Biostatistics at The Johns Hopkins Bloomberg School of Public Health. She is interested in applying data science and statistical methods towards infectious disease or child health research. She hopes to gain more research experience and is looking for a summer internship so that she can narrow her interests further.
 
 ## Education
-
-**Tufts** | Medford, MA
-
-B.S. in Biology and Child Development | August 2019 - May 2023
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
 ScM in Biostatistics | August 2023 - May 2025
+
+**Tufts** | Medford, MA
+
+B.S. in Biology and Child Development | August 2019 - May 2023
 
 ## Experience
 
@@ -34,13 +34,4 @@ ScM in Biostatistics | August 2023 - May 2025
 
 **Tufts University Undergraduate Admissions** | Internship | June 2021 - July 2023
 
-## Skills
-- Communication
-- Organization
-- R programming, Python, Stata, SPSS
 
-## Interests
-- Research
-- Reading
-- Writing
-- Music
