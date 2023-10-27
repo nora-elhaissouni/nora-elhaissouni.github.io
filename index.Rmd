@@ -16,7 +16,7 @@ library(fontawesome)
 ```
 ## Bio
 
-Nora Elhaissouni graduated from Tufts University with her Bachelor of Science this past May. She is currently pursuing her ScM in Biostatistics at The Johns Hopkins Bloomberg School of Public Health. She is interested in applying data science and statistical methods towards infectious disease or child health research. She hopes to gain more research experience and is looking for a summer internship so that she can narrow her interests further.
+Nora Elhaissouni graduated from Tufts University with her Bachelor of Science in May 2023. She is currently pursuing her ScM in Biostatistics at The Johns Hopkins Bloomberg School of Public Health. She is interested in applying data science and statistical methods towards infectious disease research. She enjoys learning different data cleaning and data management techniques. She hopes to gain more research or industry experience and is looking for a summer internship. During the summer, she hopes to progress her data analysis skills and gain exposure to more applied biostatistics so that she can narrow her future plans further.
 
 ## Education
 
@@ -29,6 +29,8 @@ ScM in Biostatistics | August 2023 - May 2025
 B.S. in Biology and Child Development | August 2019 - May 2023
 
 ## Experience
+
+**Duke Clinical Research Institute Research** | Research Assistant | June 2021 - July 2021
 
 **Biostatistics Research at Columbia University Mailman School of Public Health** | Research Assistant | June 2022 - July 2022
 
