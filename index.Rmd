@@ -28,22 +28,27 @@ B.S. in Biology and Child Development | August 2019 - May 2023
 
 ## Experience
 
-**Johns Hopkins School of Medicine Data Analyst** | Pediatric Infectious Disease Data Analyst for Dr. Aaron Milstone's Research Team | April 2024 – Present  
-- **Late-Onset Hospital-Acquired *S. aureus* Project**: Analyzed data from 315 NICUs to estimate *S. aureus* incidence and attributable mortality, using case-control matching and cluster bootstrap techniques.
-- **BrighT STAR Initiative**: Evaluated quality improvement interventions aimed at reducing antibiotic use in children's hospitals.
-- Conducted statistical analyses using R and STATA.
+##### Johns Hopkins Medicine Data Analyst
+**Pediatric Infectious Disease Data Analyst for Dr. Aaron Milstone's Research Team** | April 2024 – Present    
+- **Late-Onset Hospital-Acquired *S. aureus* Project**: Analyzed data from 315 NICUs to estimate *S. aureus* incidence and attributable mortality, using case-control matching and cluster bootstrap techniques.  
+- **BrighT STAR Initiative**: Evaluated quality improvement interventions aimed at reducing antibiotic use in children's hospitals.  
+- Conducted statistical analyses using R and STATA.  
 
-**Bloomberg School of Public Health Graduate Teaching Assistant** | TA for Statistical Methods in Public Health Sequence | August 2024 - Present  
-- Provided support in statistical concepts, hosted office hours, and assisted with course materials in R Studio.
+##### Bloomberg School of Public Health Graduate Teaching Assistant
+**TA for Statistical Methods in Public Health Sequence** | August 2024 - Present    
+- Provided support in statistical concepts, hosted office hours, and assisted with course materials in R Studio.    
 
-**Columbia Mailman School of Public Health Summer Internship** | Biostatistics and Epidemiology Research Assistant | June 2022 – July 2022  
-- Analyzed Adolescent Brain Cognitive Disorder Study (ABCD) data, presented research findings at a symposium, and engaged in professional development seminars.
+##### Columbia Mailman School of Public Health Summer Internship   
+**Biostatistics and Epidemiology Research Assistant** | June 2022 – July 2022    
+- Analyzed Adolescent Brain Cognitive Disorder Study (ABCD) data, presented research findings at a symposium, and engaged in professional development seminars.  
 
-**Duke Clinical Research Institute & North Carolina State University Research** | Biostatistics Mentored Research | May 2021 – August 2021  
-- Conducted research on HIV treatment plans using survival analysis, Kaplan-Meier curves, and lasso regression in R.
+##### Duke Clinical Research Institute & North Carolina State University Research.  
+**Biostatistics Mentored Research** | May 2021 – August 2021    
+- Conducted research on HIV treatment plans using survival analysis, Kaplan-Meier curves, and lasso regression in R.  
 
-**Tufts University Undergraduate Admissions Internship** | Student Intern | June 2021 - July 2023  
-- Supported admissions outreach and provided visitor information to assist recruitment strategies.
+##### Tufts University Undergraduate Admissions Internship 
+**Student Intern** | June 2021 - July 2023  
+- Supported admissions outreach and provided visitor information to assist recruitment strategies.  
 
 
 
